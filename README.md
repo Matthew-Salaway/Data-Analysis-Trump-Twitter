@@ -1,6 +1,6 @@
 # Data Analysis On Trump's Twitter
 # Purpose
-If Trump remains president, what projections can be made about his Twitter statistics? How many tweets per day must Trump make if his twitter habits continue form Jan. 2020 to Nov. 2020? Regardless of policy, the evidence shows Trump spends a lot of time tweeting. I will try to find how many tweets he may tweet in the future and how many tweets that will come out to be per day.
+If Trump remains president, what projections can be made about his Twitter statistics? How many tweets per day must Trump make if his twitter habits continue from Jan. 2020 to Nov. 2020? Regardless of policy, the evidence shows Trump spends a lot of time tweeting. I will try to find how many tweets he may tweet in the future and how many tweets that will come out to be per day.
 # The Data
 I will use one data set to answer my question. It can be found on Kaggle. I found this data set through the search engine under datasets, searched Trump Twitter, and filtered the results to the hottest. The dataset I chose is called “Trump Tweets Tweets from @realdonaldtrump scraped January 20th, 2020”. The data set consists of the date, tweet, favorites, and retweets. https://www.kaggle.com/austinreese/trump-tweets/version/1
 # The Plan
