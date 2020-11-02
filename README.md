@@ -9,8 +9,13 @@ First I wanted to play around with the data. I used Apache Poi to scrape the dat
 The class I made consisted of one main method that ran all of my code. I found this to be the most simple layout. I commented on all of my work to make sure I didn’t get lost in all of my different arrays, for-loops, and variables. My instance variables were named for convenience and for my personal thought. The simple counter variables I named short 1-2 letters. The other instance variables I used names that directly correlated with the array. The instance variables stored and added the data together before being stored into the array. I then traversed through the spreadsheet, storing the data I wanted such as tweets, retweets, and dates into the arrays I created.
 # The Results (Projections based on data analysis)
 Projected number of retweets per tweet in November 2024 is  30567.600000000002
+
 Percent increase in Retweets per tweet from when Trump first elected and 2024 election is  159.88796094612417
-number of tweets projected in the month of November 2024 is  745.529
+
+Number of tweets projected in the month of November 2024 is  745.529
+
 Percent increase in number of tweets tweeted by Trump from Nov 2016 to Nov 2024 is  409.63131868131865
+
 Project number of tweets from Jan 2020 to Nov 2024 is  32853.200999999994
+
 On average  15.416800093852649 tweets are needed per day to maintain this projection.
